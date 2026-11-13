@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\honzh\\MyFiles\\School\\Maturita\\Fyzikalni_Simulace\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.26100.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "mergeConfigurations": false,
+            "recursiveIncludes": {},
+            "compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "GCC",
+            "includePath": [
+                "c:/Users/honzh/MyFiles/School/Maturita/Fyzikalni_Simulace/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.26100.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:\\Users\\honzh\\.vscode\\extensions\\jhenilparihar.c-compiler-pretifier-1.0.0\\package.json",
+            "compilerPathInCppPropertiesJson": "C:\\Users\\honzh\\.vscode\\extensions\\jhenilparihar.c-compiler-pretifier-1.0.0\\package.json",
+            "mergeConfigurations": false,
+            "recursiveIncludes": {},
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
